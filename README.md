@@ -1,5 +1,5 @@
 # Solis Robot - SoBot Basic Control Logitech F710
-![](https://github.com/SolisTecnologia/SoBot-Basic-Control-Logitech-F710/blob/main/png/SoBotSingle.png)
+![](https://github.com/SolisTecnologia/SoBot-Basic-Control-Logitech-F710/blob/main/png/SoBotControlF710.png)
 
 # Introduction
 
