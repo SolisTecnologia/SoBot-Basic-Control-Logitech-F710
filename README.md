@@ -40,7 +40,7 @@ BTN_RIGTH – Moves the robot to the right
 For more information about the commands used, check the Robot Commands Reference Guide.
 
 # Reference Link
-[SolisTecnologia website](https://solistecnologia.com/produtos/robotsingle)
+[SolisTecnologia website](https://www.solistecnologia.com.br/produtos/estacoes_sobot)
 
 # Please Contact Us
   
